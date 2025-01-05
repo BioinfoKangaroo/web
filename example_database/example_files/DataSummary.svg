@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#446E9B;}
+	.st1{fill:none;stroke:#FFFFFF;stroke-width:2;}
+	.st2{display:none;fill:none;stroke:#C18D17;stroke-width:2;}
+	.st3{display:none;fill:none;stroke:#C18D17;stroke-width:2;stroke-linecap:round;}
+	.st4{fill:#637888;}
+	.st5{fill:#FFCC99;}
+	.st6{fill:#3A5569;}
+	.st7{fill:#E0E0DF;}
+	.st8{fill:#B4BFBF;}
+	.st9{fill:#8A9AA3;}
+	.st10{fill:#F16D6E;}
+</style>
+<g id="Layer_1">
+	<g id="Layer_1_00000084530004538704443290000012012819350458635402_">
+		<g id="Layer_1_00000055703419615195049300000009333606875550735801_">
+			<g id="Layer_1_00000156563780679355132570000001730101449058460599_">
+				<path class="st0" d="M6,0h52c3.3,0,6,2.7,6,6v52c0,3.3-2.7,6-6,6H6c-3.3,0-6-2.7-6-6V6C0,2.7,2.7,0,6,0z"/>
+				<path class="st1" d="M0,0"/>
+				<path class="st1" d="M0,0"/>
+				<path class="st2" d="M30,34l10-10"/>
+				<path class="st3" d="M34,23h7v7"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="Layer_2">
+	<path class="st4" d="M47.6,21H15.3c-0.7,0-1.2,0.5-1.2,1.2v23.2c0,0.7,0.5,1.2,1.2,1.2h32.3c0.7,0,1.2-0.5,1.2-1.2V22.2
+		C48.8,21.5,48.3,21,47.6,21z"/>
+	<path class="st5" d="M15.3,45.4L15.3,45.4V22.2c0,0,0-0.1,0.1-0.1h32.3c0,0,0.1,0,0.1,0.1v23.2c0,0,0,0.1-0.1,0.1L15.3,45.4
+		L15.3,45.4z"/>
+	<rect x="11.4" y="46.6" class="st6" width="40" height="2.6"/>
+	<g>
+		<polygon class="st4" points="50,50.5 13,50.5 11.4,49.2 51.5,49.2 		"/>
+		<path class="st4" d="M36.7,47.5H26.3c-0.3,0-0.4,0.2-0.4,0.4l0,0c0,0.3,0.2,0.4,0.4,0.4h10.4c0.3,0,0.4-0.2,0.4-0.4l0,0
+			C37.1,47.7,36.9,47.5,36.7,47.5z"/>
+	</g>
+	<polygon class="st7" points="36.7,10.4 21.2,10.4 21.2,36.7 41.7,36.7 41.7,15.4 	"/>
+	<polygon class="st8" points="36.7,15.4 41.7,15.4 36.7,10.4 	"/>
+	<rect x="25.7" y="19.4" class="st9" width="11.7" height="0.6"/>
+	<rect x="25.7" y="16.3" class="st10" width="7" height="0.6"/>
+	<g>
+		<rect x="25.7" y="22.6" class="st9" width="11.7" height="0.6"/>
+		<rect x="25.7" y="25.7" class="st9" width="11.7" height="0.6"/>
+		<rect x="25.7" y="28.8" class="st9" width="11.7" height="0.6"/>
+		<rect x="25.7" y="32" class="st9" width="11.7" height="0.6"/>
+	</g>
+	<polygon class="st6" points="38,37.6 40.5,43.8 41.5,40.9 44.4,40 	"/>
+</g>
+</svg>
