@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:ev="http://www.w3.org/2001/xml-events" viewBox="0 0 505 345">
+  <!-- Generator: Adobe Illustrator 29.1.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 142)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke-width: 2px;
+      }
+
+      .st0, .st1, .st2, .st3 {
+        stroke: #000;
+      }
+
+      .st4 {
+        font-size: 14px;
+      }
+
+      .st4, .st5, .st6, .st7 {
+        isolation: isolate;
+      }
+
+      .st4, .st5, .st7 {
+        font-family: ArialMT, Arial;
+      }
+
+      .st1 {
+        fill: #add8e6;
+      }
+
+      .st2 {
+        fill: #e5e5ae;
+      }
+
+      .st5 {
+        font-size: 21px;
+      }
+
+      .st7 {
+        font-size: 24px;
+      }
+
+      .st3 {
+        fill: #d2aee5;
+      }
+    </style>
+  </defs>
+  <g id="Layer_11" data-name="Layer_1">
+    <rect class="st1" x="20" y="19.1" width="140" height="50"/>
+    <g class="st6">
+      <text class="st5" transform="translate(39 52.1)"><tspan x="0" y="0">Dataset 1</tspan></text>
+    </g>
+    <rect class="st1" x="200" y="19.1" width="140" height="50"/>
+    <g class="st6">
+      <text class="st5" transform="translate(223.7 52.1)"><tspan x="0" y="0">dataset 2</tspan></text>
+    </g>
+    <line class="st0" x1="140" y1="44.1" x2="200" y2="44.1"/>
+    <g class="st6">
+      <text class="st7" transform="translate(103 99.1)"><tspan x="0" y="0">Horizontal integration</tspan></text>
+    </g>
+    <rect class="st2" x="20" y="169.1" width="140" height="50"/>
+    <g class="st6">
+      <text class="st5" transform="translate(32.3 200.1)"><tspan x="0" y="0">Dimention 1</tspan></text>
+    </g>
+    <rect class="st2" x="20" y="239.1" width="140" height="50"/>
+    <g class="st6">
+      <text class="st5" transform="translate(33 274.1)"><tspan x="0" y="0">Dimention 2</tspan></text>
+    </g>
+    <line class="st0" x1="80" y1="219.1" x2="80" y2="239.1"/>
+    <g class="st6">
+      <text class="st7" transform="translate(32.9 320.9)"><tspan x="0" y="0">Vertical integration</tspan></text>
+    </g>
+    <rect class="st3" x="198.3" y="150.8" width="140" height="50"/>
+    <g class="st6">
+      <text class="st4" transform="translate(205.3 180.8)"><tspan x="0" y="0">Dimention 1 Data A</tspan></text>
+    </g>
+    <rect class="st3" x="358.3" y="220.8" width="140" height="50"/>
+    <g class="st6">
+      <text class="st4" transform="translate(368 252.8)"><tspan x="0" y="0">Dimention 2 Data B</tspan></text>
+    </g>
+    <line class="st0" x1="338.3" y1="200.8" x2="358.3" y2="220.8"/>
+    <g class="st6">
+      <text class="st7" transform="translate(289.1 298.1)"><tspan x="0" y="0">Diagonal integration</tspan></text>
+    </g>
+  </g>
+</svg>
